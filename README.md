@@ -1,12 +1,12 @@
 ### I'm Tonoyama
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonoyama)](https://github.com/Tonoyama/github-readme-stats)
 
-<a href="https://github.com/Tonoyama"
-    target="_blank"
-    title="tbpgrのGitHubページを開く">
-  <i class="fa fa-github-square" style="color: black;font-size:2em"></i>
-</a> 
-
+<a href="https://github.com/Tonoyama/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Tonoyama/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonoyama" />
+</a>
 
 <!--
 **Tonoyama/Tonoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
