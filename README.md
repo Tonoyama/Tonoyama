@@ -1,4 +1,9 @@
-### I'm Tonoyama
+### Hello, I'm Tonoyama
+🌱 I’m currently learning:
+Language:Java, C, Go
+F/W:Spring Framework, Rails, React
+SaaS, PaaS:GitHub, AWS, GCP
+
 <a href="https://github.com/Tonoyama/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tonoyama&count_private=true&show_icons=true" />
 </a>
