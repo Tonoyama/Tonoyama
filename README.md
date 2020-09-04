@@ -1,9 +1,9 @@
 ### Hello, I'm Tonoyama
 🌱 I’m currently learning:
 
-Language:Java, C, Go
+Language:Python, C, Go
 
-F/W:Spring Framework, Rails, React
+F/W:Rails, React
 
 SaaS, PaaS:GitHub, AWS, GCP
 
