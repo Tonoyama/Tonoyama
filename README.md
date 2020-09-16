@@ -1,7 +1,7 @@
 ### Hello, I'm Tonoyama
 🌱 I’m currently learning:
 
-Language:Python, C, Go
+Language:C, Go, TypeScript
 
 F/W:Rails, React
 
