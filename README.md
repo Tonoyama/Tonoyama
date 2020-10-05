@@ -1,14 +1,14 @@
 ### Hello, I'm Tonoyama
-My portfolio site:
+My portfolio site :
 [https://tonoyama.me](https://www.tonoyama.me/)
 
 🌱 I’m currently learning:
 
-Language:C, Go, TypeScript
+Language :C, Go, TypeScript
 
-F/W:Rails, React
+F/W :Rails, React
 
-SaaS, PaaS:GitHub, AWS, GCP
+SaaS, PaaS :GitHub, AWS, GCP
 
 <a href="https://github.com/Tonoyama/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tonoyama&count_private=true&show_icons=true" />
