@@ -4,7 +4,7 @@ My portfolio site :
 
 🌱 I’m currently learning:
 
-Language : C, Go, TypeScript
+Language : C++, TypeScript
 
 F/W : Rails, React
 
