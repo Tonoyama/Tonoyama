@@ -4,9 +4,9 @@ My portfolio site :
 
 🌱 I’m currently learning:
 
-Language : C++, TypeScript
+Language : Go, TypeScript
 
-F/W : Rails, React
+F/W : React, Rails, Laravel
 
 SaaS, PaaS : GitHub, AWS, GCP
 
