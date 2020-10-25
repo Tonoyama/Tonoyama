@@ -8,7 +8,7 @@ Language : Go, TypeScript
 
 F/W : React, Rails, Laravel
 
-SaaS, PaaS : AWS, GCP
+PaaS : AWS, GCP
 
 🔭 I’m currently working on [P-Hackathon2020](https://github.com/Tonoyama/P-Hackathon2020)
 
