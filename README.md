@@ -6,7 +6,7 @@ My portfolio site :
 
 Language : Go, TypeScript
 
-F/W : LaravelReact, Rails
+F/W : Laravel, React, Rails
 
 PaaS : AWS, GCP
 
