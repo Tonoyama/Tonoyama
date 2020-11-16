@@ -1,12 +1,14 @@
 ### Hello, I'm Tonoyama
-My portfolio site :
-[https://tonoyama.me](https://www.tonoyama.me/)
+My portfolio site:
+[tonoyama.me](https://www.tonoyama.me/)
+My Blog:
+[blog.tonoyama-yudai.com/](https://blog.tonoyama-yudai.com/)
 
 🌱 I’m currently learning:
 
-Language : Go, TypeScript
+Language : TypeScript, Go
 
-F/W : Laravel, React, Rails
+F/W : Gatsby, React, Rails
 
 PaaS : AWS, GCP
 
