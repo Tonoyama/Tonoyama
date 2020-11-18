@@ -7,7 +7,7 @@ My Blog:
 
 🌱 I’m currently learning:
 
-Language : TypeScript, Go
+Language : TypeScript, Go, Clang
 
 F/W : Gatsby, React, Rails
 
