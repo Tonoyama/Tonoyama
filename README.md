@@ -9,7 +9,7 @@ My Blog:
 
 Language : TypeScript, Go, Clang
 
-F/W : Rails, React, Nuxt.js
+F/W : Rails, React
 
 PaaS : AWS, GCP
 
