@@ -15,7 +15,6 @@ PaaS : AWS, GCP
 
 CI:CD : CircleCI, Github Actions
 
-🔭 I’m currently working on [P-Hackathon2020](https://github.com/Tonoyama/P-Hackathon2020)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tonoyama)](https://github.com/Tonoyama/github-profile-trophy)
 
