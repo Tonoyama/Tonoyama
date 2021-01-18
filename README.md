@@ -5,6 +5,9 @@ My portfolio site:
 My Blog:
 [blog.tonoyama-yudai.com/](https://blog.tonoyama-yudai.com/)
 
+Qiita:
+[qiita.com/Tonoyama](https://qiita.com/Tonoyama)
+
 🌱 I’m currently learning:
 
 Language : TypeScript, Go, Clang
