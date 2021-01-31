@@ -15,11 +15,11 @@ Qiita:
 
 Language : TypeScript, Go, Clang
 
-F/W : Rails, React
+F/W : Rails, Next.js
 
 PaaS : AWS, GCP
 
-CI:CD : CircleCI, Github Actions
+CI/CD : CircleCI, Github Actions
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tonoyama)](https://github.com/Tonoyama/github-profile-trophy)
