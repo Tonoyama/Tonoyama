@@ -13,9 +13,9 @@ Qiita:
 
 🌱 I’m currently learning:
 
-Language : TypeScript, Go, Clang
+Language : TypeScript, Clang
 
-F/W : Rails, Next.js
+F/W : Next.js
 
 PaaS : AWS, GCP
 
