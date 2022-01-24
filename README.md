@@ -1,7 +1,7 @@
 ### Hello, I'm Tonoyama
 My portfolio site:
 
-- [tonoyama.me](https://www.tonoyama.me/)
+- [resume.id/yudaitonoyama](https://www.resume.id/yudaitonoyama)
 
 - [yudai-tonoyama.netlify.app](https://yudai-tonoyama.netlify.app/)
 
@@ -13,7 +13,7 @@ Qiita:
 
 🌱 I’m currently learning:
 
-Language : TypeScript, Clang
+Language : TypeScript
 
 F/W : Next.js
 
