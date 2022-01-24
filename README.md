@@ -5,9 +5,6 @@ My portfolio site:
 
 - [yudai-tonoyama.netlify.app](https://yudai-tonoyama.netlify.app/)
 
-My Blog:
-[blog.tonoyama-yudai.com/](https://blog.tonoyama-yudai.com/)
-
 Qiita:
 [qiita.com/Tonoyama](https://qiita.com/Tonoyama)
 
