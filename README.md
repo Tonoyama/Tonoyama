@@ -14,17 +14,6 @@ My portfolio site:
 Qiita:
 [qiita.com/Tonoyama](https://qiita.com/Tonoyama)
 
-🌱 I’m currently learning:
-
-Language : TypeScript
-
-F/W : Next.js
-
-PaaS : AWS, GCP
-
-CI/CD : CircleCI, Github Actions
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tonoyama)](https://github.com/Tonoyama/github-profile-trophy)
 
 <a href="https://github.com/Tonoyama/github-readme-stats">
